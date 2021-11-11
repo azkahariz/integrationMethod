@@ -1,1 +1,1 @@
-# integrationMethod
+# Integration Method
